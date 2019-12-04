@@ -2,6 +2,8 @@
 
 Untuk login akses internet karena aku males&&mager
 
+![demo](https://media.giphy.com/media/cjiFG82TysNVqkt3Km/giphy.gif)
+
 ## Requirement
 
 1. Punya akun integra
@@ -19,7 +21,7 @@ kalau mau pake path sendiri, nanti ganti path dalem file py nya
 driver = webdriver.Chrome(executable_path='C:\chromedriver.exe') #yg warna ijo
 ```
 
-Buka Command Prompt, pake pip untuk install [Selenium](https://pypi.org/project/selenium/)
+Buka Command Prompt, install [Selenium](https://pypi.org/project/selenium/)
 
 ```bash
 pip install -U selenium
