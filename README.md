@@ -18,7 +18,7 @@ Untuk login akses internet karena aku males&&mager
 
 kalau mau pake path sendiri, nanti ganti path dalem file py nya
 ```python
-driver = webdriver.Chrome(executable_path='C:\chromedriver.exe') #yg warna ijo
+driver = webdriver.Chrome(executable_path='C:\chromedriver.exe')
 ```
 
 Buka Command Prompt, install [Selenium](https://pypi.org/project/selenium/)
